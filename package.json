@@ -1,0 +1,24 @@
+{
+  "name": "salman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "game": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "inquirer": "^9.2.9",
+    "react-icons": "^4.10.1"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3"
+  }
+}
